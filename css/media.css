@@ -1,0 +1,1038 @@
+@media (min-width:1201px) {
+
+  /* Portfolio Page CSS */
+
+  .title{
+    text-align: left;
+    font-size: 2.2em;
+    letter-spacing: 0.3em;
+    font-weight: bold;
+    margin-top: 10px;
+
+  }
+
+  .title-hero{
+    text-align: left;
+    font-size: 2.2em;
+    letter-spacing: 0.3em;
+    font-weight: bold;
+    margin-top: 30px;
+    margin-left: 60px;
+  }
+
+  .title-center {
+    text-align: center;
+  }
+
+
+  .subtitle-hero {
+    font-weight: lighter;
+    font-size: 1.8em;
+    text-align: left;
+    margin-left: 60px;
+  }
+
+  .subtitle-hero-1200 {
+    font-weight:lighter;
+    margin-left: 0;
+    font-size: 1.8em;
+    text-align: left;
+    margin-left: 60px;
+  }
+
+  .title-large {
+    margin-left: 60px;
+  }
+
+
+  .paragraph{
+    font-size: 1.5em;
+    font-weight:lighter;
+    text-align:left;
+  }
+
+  .paragraph-two{
+    color: white;
+    font-size: 1.5em;
+    font-weight:lighter;
+    text-align:center;
+    margin-left: 4em;
+    margin-right:4em;
+  }
+
+  .subtitle {
+    font-size:1.5em;
+    color:grey;
+    font-weight:lighter;
+    text-align: center;
+  }
+
+  .subtitle-two {
+    font-size:1.2em;
+    color:white;
+    font-weight:lighter;
+    text-align: center;
+  }
+
+  .title-two {
+    text-align: center;
+    font-size: 2.2em;
+    letter-spacing: 0.3em;
+    font-weight: bold;
+    margin-top: 10px;
+  }
+
+  .work-with-us-title {
+    letter-spacing: 0.3em;
+    font-weight: bold;
+    text-align: center;
+    font-size: 1.8em;
+  }
+
+  .work-with-us{
+    letter-spacing: 0.1em;
+    font-weight: bold;
+    font-weight:400;
+    font-size:2em;
+    line-height: 1em;
+    text-align: center;
+  }
+
+  .work-with-us-para {
+    font-weight:lighter;
+    margin: 30px 0 0 0;
+    font-size: 1.5em;
+    padding: 0 10px 0 10px;
+  }
+
+  .portfolio-img-hero {
+    max-width: 100%;
+    height:auto;
+    z-index: -3;
+    position: relative;
+  }
+
+  .socialmedia {
+    max-width: 80%;
+  }
+
+  #backgroundone {
+    background-image: url("../assets/img/portfolio-mockup-office.png");
+    background-size: cover;
+    background-position: top;
+  }
+
+  .btn-portfolio {
+    background-color: white;
+    border-color: grey;
+    color:white;
+    border-width: 3px;
+    padding: 5px;
+  }
+
+  #testimonial {
+    width:225px;
+    border-radius: 50%;
+    padding: 5px;
+  }
+
+  .testimonial-block {
+    border-radius: 5px;
+    width: 300px;
+    height: auto;
+    padding-bottom: 20px;
+    -webkit-box-shadow: 5px 5px 20px 3px rgba(0,0,0,0.49);
+    -moz-box-shadow: 5px 5px 20px 3px rgba(0,0,0,0.49);
+    box-shadow: 5px 5px 20px 3px rgba(0,0,0,0.49);
+    margin: auto;
+  }
+
+  .testimonial-paragraph {
+    font-size: 1.5em;
+    text-align: left;
+    font-weight: lighter;
+    color: #323232;
+  }
+
+  .testimonial-name {
+    font-size: 1.5em;
+    text-align:left;
+    font-weight: 200;
+  }
+
+  .call-to-action {
+    position:relative;
+    z-index: auto;
+    width:auto;
+    height:60px;
+    bottom:0;
+    background-color: #323232;
+    color:white;
+    box-shadow: 1px 0 15px 0px black;
+  }
+
+  .is-table {
+        display: table;
+    }
+    .is-table [class*="col-"] {
+        float: none;
+        display: table-cell;
+        vertical-align: middle;
+    }
+
+    .hide-767px-onwards {
+    display: none;
+    }
+
+    .hide-1200px-above {
+      display:none;
+    }
+
+    .testimonial-large {
+      background-color: white;
+      border-radius: 5px;
+      border-color:black;
+      width: 350px;
+      height: auto;
+      padding-bottom: 20px;
+      -webkit-box-shadow: 5px 5px 20px 3px rgba(0,0,0,0.49);
+      -moz-box-shadow: 5px 5px 20px 3px rgba(0,0,0,0.49);
+      box-shadow: 5px 5px 20px 3px rgba(0,0,0,0.49);
+      margin: auto;
+    }
+
+    .testimonial-large-title {
+      font-spacing: 1em;
+      font-size: 1.8em;
+      font-weight: 400;
+      text-align: center;
+      padding-top: 30px;
+    }
+
+  /*---end of portfolio---*/
+
+.hero-title {
+}
+
+.hero-subtitle {
+}
+
+.hero-btn {
+}
+.hero-btn span {
+}
+
+.intro-wrapper {
+  height: 450px;
+}
+
+.intro-box {
+  width: 300px;
+}
+
+.intro-box h1 {
+  font-size: 33px;
+  padding-top: 30px;
+}
+
+.intro-banner-text {
+  font-size: 23px;
+}
+
+.wwd-title {
+  font-size: 35px;
+}
+
+.wwd-subtitle {
+  font-size:33px;
+}
+
+.wwd-body {
+  font-size: 19px;
+}
+
+.wwd-phone {
+  top: -129px;
+}
+
+
+.challenge {
+  margin-top:0px;
+  background-color:#323232;
+  text-align:center;
+  color:white;
+  margin-top:-40px;
+  z-index:1;
+}
+
+.hide-1200px-above {
+  display: none;
+}
+
+.challenge {
+  margin-top:0px;
+  background-color:#323232;
+  text-align:center;
+  color:white;
+  z-index:1;
+}
+
+
+
+}
+
+@media (min-width:768px) and (max-width:1200px){
+
+  /* Portfolio Page CSS */
+
+
+  .challenge {
+    margin-top:0px;
+    background-color:#323232;
+    text-align:center;
+    color:white;
+    z-index:1;
+  }
+
+  .title{
+    text-align: center;
+    font-size: 1.8em;
+    letter-spacing: 0.3em;
+    font-weight: bold;
+  }
+
+  .subtitle-hero {
+    font-weight: lighter;
+    font-size: 1.5em;
+  }
+
+  .paragraph{
+    font-size: 1.5em;
+    font-weight:lighter;
+    text-align:left;
+  }
+
+  .paragraph-two{
+    color: white;
+    font-size: 1.5em;
+    font-weight:lighter;
+    text-align:center;
+  }
+
+  .subtitle {
+    font-size:1.2em;
+    color:grey;
+    font-weight:lighter;
+  }
+
+  .subtitle-two {
+    font-size:1.2em;
+    color:white;
+    font-weight:lighter;
+    text-align: center;
+  }
+
+  .title-two {
+    text-align: center;
+    font-size: 1.8em;
+    letter-spacing: 0.3em;
+    font-weight: bold;
+    margin-top: 10px;
+  }
+
+  .work-with-us-title {
+    letter-spacing: 0.3em;
+    font-weight: bold;
+    text-align: center;
+    font-size: 1.8em;
+  }
+
+  .work-with-us{
+    letter-spacing: 0.1em;
+    font-weight: bold;
+    font-weight:400;
+    font-size:2em;
+    line-height: 1em;
+    text-align: center;
+  }
+
+  .work-with-us-para {
+    font-weight:lighter;
+    margin: 30px 0 0 0;
+    font-size: 1.5em;
+    padding: 0 10px 0 10px;
+  }
+
+  .portfolio-img-hero {
+    max-width: 100%;
+    height:auto;
+    z-index: -3;
+    position: relative;
+  }
+
+  .socialmedia {
+    max-width: 80%;
+  }
+
+  #backgroundone {
+    background-image: url("../assets/img/portfolio-mockup-office.png");
+    background-size: cover;
+    background-position: top;
+  }
+
+  .btn-portfolio {
+    background-color: white;
+    border-color: grey;
+    color:white;
+    border-width: 3px;
+    padding: 5px;
+  }
+
+  #testimonial {
+    width:250px;
+    border-radius: 50%;
+    padding: 5px;
+  }
+
+  .testimonial-block {
+    border-radius: 5px;
+    width: 300px;
+    height: auto;
+    padding-bottom: 20px;
+    -webkit-box-shadow: 5px 5px 20px 3px rgba(0,0,0,0.49);
+    -moz-box-shadow: 5px 5px 20px 3px rgba(0,0,0,0.49);
+    box-shadow: 5px 5px 20px 3px rgba(0,0,0,0.49);
+    margin: auto;
+  }
+
+  .testimonial-paragraph {
+    font-size: 1.5em;
+    text-align: left;
+    font-weight: 300;
+    color: #323232;
+    margin:1em 2em 1em 2em;
+    font-weight: lighter;
+  }
+
+  .testimonial-name {
+    font-size: 1.5em;
+    text-align:left;
+    padding-left: 2em;
+  }
+
+.testimonial-left {
+  text-align: left;
+  margin-left: 42px;
+  }
+
+  .call-to-action {
+    position:relative;
+    z-index: auto;
+    width:auto;
+    height:60px;
+    bottom:0;
+    background-color: #323232;
+    color:white;
+    box-shadow: 1px 0 15px 0px black;
+  }
+
+
+  .is-table {
+    display: table;
+  }
+  .is-table [class*="col-"] {
+    float: none;
+    display: table-cell;
+    vertical-align: middle;
+  }
+
+  .hide-767px-onwards {
+    display: none;
+  }
+
+
+  .hide-1200px-below {
+    display: none;
+  }
+
+  .testimonial-large {
+    background-color: white;
+    border-radius: 5px;
+    border-color:black;
+    width: 250px;
+    height: auto;
+    padding-bottom: 20px;
+    -webkit-box-shadow: 5px 5px 20px 3px rgba(0,0,0,0.49);
+    -moz-box-shadow: 5px 5px 20px 3px rgba(0,0,0,0.49);
+    box-shadow: 5px 5px 20px 3px rgba(0,0,0,0.49);
+    margin: auto;
+  }
+
+  .testimonial-large-title {
+    font-spacing: 1em;
+    font-size: 1.5em;
+    font-weight: 400;
+    text-align: center;
+    padding-top: 30px;
+  }
+
+  /*---end of portfolio---*/
+
+.hero-title {
+  top: 100px;
+  left: 3%;
+}
+.hero-title h1 {
+  font-size: 30px;
+}
+
+.hero {
+  height: 557px;
+  background: #fff;
+}
+
+.hero-btn {
+  top: 500px;
+  left: 8%;
+}
+
+.intro-img {
+  display: block;
+  margin-top: 125px;
+}
+
+.intro {
+  font-size: 20px;
+}
+.intro span {
+  left: 1%;
+}
+
+.intro-wrapper {
+  height: 450px;
+}
+
+.intro-box {
+  width: 250px;
+}
+
+.intro-box h1 {
+  font-size: 28px;
+  padding-top: 33px;
+}
+
+.intro-banner-text {
+  font-size: 18px;
+}
+
+.intro-box {
+  margin-left: 5%;
+}
+
+.intro-banner-text {
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+#banner-subtitle {
+  font-size: 25px;
+}
+
+.wwd-wrapper {
+  height: 550px;
+}
+
+.wwd-inner-wrapper {
+  height: 605px;
+  margin: 0 5%;
+  top: 0;
+  padding-top: 0;
+}
+
+.wwd-title {
+  font-size: 30px;
+  margin-right: 0;
+  margin-left: 5%;
+  position: relative;
+  top: 5%;
+  padding: 0;
+}
+
+.light-text {
+  font-size: 26px;
+}
+
+.wwd-body {
+  font-size: 18px;
+  margin-top: 10%;
+  margin-left: 5%;
+  margin-right: 0;
+  width: 50%;
+}
+
+.wwd-phone {
+  background-image:url(/images/phone.png);
+  background-repeat: no-repeat;
+  height: auto;
+  width: 100%;
+  position: relative;
+  top: -300px;
+  left: 65%;
+}
+
+.reasons-btn {
+  border: none;
+  background-color: transparent;
+  width: 255px;
+  height: 50px;
+  border-radius: 0;
+  text-align: center;
+  transition: 0.2s;
+  margin-top: 100px;
+  display: block;
+}
+
+.inner-wrapper {
+  padding-top: 0;
+  height: 675px;
+}
+
+.projects-title {
+  font-size: 30px;
+  margin-left: -5%;
+  position: relative;
+  padding: 0;
+}
+
+.project-intro {
+  font-size: 12px;
+  font-weight: 100;
+  margin-top: -661px;
+  margin-left: 5%;
+  transition: 1s;
+  width: 50%;
+}
+
+.start-now {
+    bottom: 8%;
+    right: 0;
+}
+
+.projects-wrapper {
+  height: 800px;
+}
+
+.project-wrapper {
+  height: 600px;
+  padding-top: 50px;
+  width: 90%;
+  margin: auto;
+  margin-top: 35px;
+}
+
+.project-block {
+  margin-top: 40px;
+  margin-bottom: 5%;
+  padding-right: 10%;
+  padding-left: 10%;
+}
+
+.fotl-title {
+  margin-top: 100px;
+}
+
+.fotl-intro {
+  font-size: 18px;
+  margin-left: 10%;
+  width: 56%;
+}
+
+.marketing-cta {
+  position: absolute;
+  margin-top: -170px;
+  right: 30%;
+}
+
+.apply-form-body {
+  width: 475px;
+  margin: auto;
+}
+
+.input-box {
+  width: 435px;
+}
+
+.submit-btn {
+  margin-left: 320px;
+}
+
+.tc {
+  padding-left: 42%;
+}
+
+}
+
+@media (min-width:320px) and (max-width: 767px) {
+
+  .hide-1200px-below {
+    display: none;
+  }
+
+  .challenge {
+    margin-top:-40px;
+    background-color:#323232;
+    text-align:center;
+    color:white;
+    margin-top:-40px;
+    z-index:1;
+  }
+
+
+
+.navbar {
+  position: relative;
+}
+
+.hero {
+  height: 731px;
+}
+
+.intro {
+  font-size: 35px;
+  top: 0;
+  padding-bottom: 0;
+}
+.intro span {
+  left: 0;
+}
+
+.hero-title {
+  top: 0;
+  left: 0;
+}
+
+.hero-btn {
+  top: 110%;
+  left: 5%;
+  width: 165px;
+  height: 40px;
+}
+.hero-btn span {
+  font-size: 18px;
+}
+
+.intro-img {
+  display: block;
+  width: 106%;
+  margin-top: 125px;
+}
+
+.row {
+  margin-right:0;
+}
+
+.top-bar {
+  text-align: left;
+  padding-left: 25px;
+}
+
+.main-nav ul {
+  padding: 0;
+}
+.main-nav li {
+  padding-top: 15px;
+  font-size: 18px;
+  text-align: left;
+  list-style: none;
+}
+
+.intro-box {
+  margin-left: 0;
+}
+
+.hero {
+}
+.hero-title {
+}
+.hero-btn {
+}
+
+.hero-subtitle {
+}
+
+.hero-btn {
+}
+
+.intro-wrapper {
+}
+
+#banner-title {
+  font-size: 30px;
+}
+
+#banner-subtitle {
+  font-size: 25px;
+}
+
+.wwd-wrapper {
+  padding-right: 0;
+  background-color: #FFF59D;
+  height: 860px;
+}
+
+.wwd-inner-wrapper {
+  margin: 0;
+  height: 900px;
+  top: 15px;
+}
+
+.wwd-title {
+  top: 1%;
+}
+
+.wwd-body {
+  margin-top: 18%;
+  font-size: 18px;
+  margin-top: 10%;
+  margin-left: 5%;
+  width: 90%;
+}
+
+.wwd-phone {
+  background-image:url(/images/phone.png);
+  background-repeat: no-repeat;
+  height: auto;
+  width: 100%;
+  position: absolute;
+  top: 5px;
+  left: 8%;
+}
+
+.reasons-btn {
+  border: none;
+  background-color: transparent;
+  width: 255px;
+  height: 50px;
+  border-radius: 0;
+  text-align: center;
+  transition: 0.2s;
+  margin-top: 10px;
+  display: block;
+}
+
+.inner-wrapper {
+  height: 815px;
+  margin: 0 5% 0 0;
+}
+
+.projects-wrapper {
+  height: 900px;
+  padding: 0;
+  background: #FFF59D;
+}
+
+.projects-title {
+  top: 5%;
+  left: 55px;
+}
+
+.project-intro {
+  margin-top: 100px;
+  margin-left: 14%;
+}
+
+.project-wrapper {
+  height: 647px;
+  padding-top: 50px;
+  width: 100%;
+  left: 0%;
+  margin-top: 70px;
+}
+
+.project-block-title {
+  text-align: left;
+  padding-left: 8%;
+  padding-right: 5%;
+}
+
+.project-block {
+  margin-top: 30px;
+  padding-left: 13%;
+}
+
+.start-now {
+  bottom: -2%;
+  left: 41%
+}
+
+.fotl-title {
+  font-size: 30px;
+  color: #fff;
+  font-weight: 500;
+  position: relative;
+  margin-top: 100px;
+  left: 8%;
+  width: 90%;
+}
+
+.fotl-intro {
+  font-size: 18px;
+  margin-left: 11%;
+  width: 89%;
+}
+
+.marketing-cta {
+  margin-top: -75px;
+  left: 20%;
+}
+
+.apply-form-body {
+  width: 100%;
+  margin-left: 8px;
+}
+
+.input-box {
+  width: 100%;
+}
+
+.submit-btn {
+  margin-left: 0;
+}
+
+.tc {
+  padding-left: 0;
+}
+
+
+/* Portfolio Page CSS */
+
+.title{
+  letter-spacing: 0.3em;
+  font-weight: bold;
+}
+
+.subtitle-hero {
+  font-weight: lighter;
+  font-size: 1em;
+}
+
+.paragraph{
+  font-weight:lighter;
+  text-align:left;
+}
+
+.paragraph-two{
+  color: white;
+  font-weight:lighter;
+  text-align:left;
+}
+
+.hide-768px-below {
+  display:none
+}
+
+.subtitle {
+  font-size:1em;
+  color:grey;
+  font-weight:lighter;
+}
+
+.subtitle-two {
+  font-size:1em;
+  color:white;
+  font-weight:lighter;
+}
+
+.work-with-us-title {
+  letter-spacing: 0.3em;
+  font-weight: bold;
+  text-align: center;
+}
+
+.work-with-us{
+  letter-spacing: 0.1em;
+  font-weight: bold;
+  font-weight:400;
+  font-size:2em;
+  line-height: 1em;
+}
+
+.work-with-us-para {
+  font-weight:lighter;
+  margin: 30px 0 0 0;
+}
+
+.portfolio-img-hero {
+  max-width: 100%;
+  height:auto;
+  z-index: -3;
+  position: relative;
+}
+
+.socialmedia {
+  max-width: 100%;
+  margin:0;
+}
+
+
+#backgroundone {
+  background-image: url("../assets/img/portfolio-mockup-office.png");
+  background-size: cover;
+  background-position: top;
+}
+
+.btn-portfolio {
+  background-color: white;
+  border-color: grey;
+  color:white;
+  border-width: 3px;
+  padding: 5px;
+}
+
+#testimonial {
+  width:300px;
+  margin-bottom:20px;
+}
+
+.testimonial-block {
+  border-radius: 5px;
+  width: 300px;
+  height: auto;
+  padding-bottom: 20px;
+  -webkit-box-shadow: 5px 5px 20px 3px rgba(0,0,0,0.49);
+  -moz-box-shadow: 5px 5px 20px 3px rgba(0,0,0,0.49);
+  box-shadow: 5px 5px 20px 3px rgba(0,0,0,0.49);
+  margin: auto;
+}
+
+.testimonial-paragraph {
+  text-align: left;
+  font-weight: 300;
+  color: #323232;
+  margin:1em 2em 1em 2em;
+}
+
+.testimonial-name {
+  text-align:right;
+  padding-right:2em
+}
+
+.call-to-action {
+  position:relative;
+  z-index: auto;
+  width:auto;
+  height:60px;
+  bottom:0;
+  background-color: #323232;
+  color:white;
+  box-shadow: 1px 0 15px 0px black;
+}
+
+
+
+
+/*---end of portfolio---*/
+
+
+
+}
